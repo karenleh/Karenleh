@@ -3,10 +3,11 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 📚 **Transformar conhecimento em prática** através de projetos pessoais
 
-### 🔗 Onde me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/karenleh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-- [Email](karenleticia980@gmail.com)  
-
+### 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/karenleh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+ 
+###
+###
 <div>
   <a href="https://beacons.ai/Karenleh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karenleh&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
